@@ -1,5 +1,13 @@
 <h2 align="left">Hi 👋! My name is Raghav Joshi and I'm an inspiring App Developer, from Shimla, Himachal Pradesh</h2>
 
+- 🔭 I’m currently working on **Flutter, Spring Boot, MongoDB**.
+
+- 👨‍💻 Keen interest in **Mobile app development, DSA and backend**.
+
+- 📫 Feel free to reach me out **raghavj987@gmail.com**.
+
+- ⚡ My hobbies are reading books, playing badminton and coding.
+- 
 ###
 
 <div align="center">
@@ -52,6 +60,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/raghavj08/raghavj08/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 ###
