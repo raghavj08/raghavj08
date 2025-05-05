@@ -7,7 +7,6 @@
 - 📫 Feel free to reach me out **raghavj987@gmail.com**.
 
 - ⚡ My hobbies are reading books, playing badminton and coding.
-- 
 ###
 
 <div align="center">
