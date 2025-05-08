@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Raghav Joshi and I'm an App Developer, from Shimla, Himachal Pradesh</h2>
+<h2 align="left">Hi 👋! My name is Raghav Joshi and I'm an inspiring App Developer, from Shimla, Himachal Pradesh</h2>
 
 - 🔭 I’m currently working on **Flutter, Spring Boot, MongoDB**.
 
